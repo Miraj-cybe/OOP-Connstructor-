@@ -1,0 +1,14 @@
+C:\Users\WALTON\OneDrive\Desktop\java\bin\Debug\net9.0\java.exe
+C:\Users\WALTON\OneDrive\Desktop\java\bin\Debug\net9.0\java.deps.json
+C:\Users\WALTON\OneDrive\Desktop\java\bin\Debug\net9.0\java.runtimeconfig.json
+C:\Users\WALTON\OneDrive\Desktop\java\bin\Debug\net9.0\java.dll
+C:\Users\WALTON\OneDrive\Desktop\java\bin\Debug\net9.0\java.pdb
+C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\java.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\java.AssemblyInfoInputs.cache
+C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\java.AssemblyInfo.cs
+C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\java.csproj.CoreCompileInputs.cache
+C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\java.dll
+C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\refint\java.dll
+C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\java.pdb
+C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\java.genruntimeconfig.cache
+C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\ref\java.dll
