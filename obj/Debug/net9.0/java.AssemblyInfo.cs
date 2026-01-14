@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("java")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6761bc9ee049fe57dade2f685cd79542d34dce27")]
 [assembly: System.Reflection.AssemblyProductAttribute("java")]
 [assembly: System.Reflection.AssemblyTitleAttribute("java")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

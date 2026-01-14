@@ -1,33 +1,32 @@
 ﻿using System;
 namespace practice
 {
-    class Car
+    class Person
     {
-string CarName ;
-int makeYear;
-//Default Constructor
-public Car()
+        public string name = "Miraj Mondol";
+        private int age;
+
+    
+    public void setage(int personAge)  //to read private age variable
         {
-           CarName = "Toyota";
-              makeYear = 2020; 
+            age = personAge;
         }
-//paramterized Constructor
-public Car( string a ,int x)
+//For Readable
+ public int Getage()
         {
-            CarName =a;
-            makeYear =x;
+        return age;
         }
-public void displayInfo()
-        {
-            Console.WriteLine("Car Details: " + CarName + "." + " Make Year:  " + makeYear);
-        }
+
+
+    }
+    class Program
+    {
         static void Main(string[] args)
         {
-            Car carDetails = new Car();
-          carDetails.displayInfo();
-         
-          Car Cardetails =new Car("Honda",2022);
-          Cardetails.displayInfo();
+         Person person1 = new Person();
+         person1.setage(22);
+         Console.WriteLine($"Name: {person1.name} , Age: {person1.Getage()}");
+
         }
     }
 }

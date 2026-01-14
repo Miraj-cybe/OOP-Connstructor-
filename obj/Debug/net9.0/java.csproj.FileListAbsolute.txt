@@ -12,3 +12,4 @@ C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\refint\java.dll
 C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\java.pdb
 C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\java.genruntimeconfig.cache
 C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\ref\java.dll
+C:\Users\WALTON\OneDrive\Desktop\java\obj\Debug\net9.0\java.sourcelink.json
